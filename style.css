@@ -5,6 +5,8 @@
 .cabeçalho{
     background-color: rgba(252, 252, 252, 0.801);
     color: rgb(45, 23, 241);
+    align-content: center;
+    display: inline-block;
 }
 .foto {
     width: 10%;
