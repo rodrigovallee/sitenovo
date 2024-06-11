@@ -4,13 +4,13 @@
 }
 
 .cabeçalho{
-    background-color: rgba(252, 252, 252, 0.801);
-    color: rgb(45, 23, 241);
+    background-color: rgb(255, 238, 0);
+    color: rgb(0, 0, 0);
     display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 24px 0;
 }
 .foto {
-    width: 20%;
+    width: 15%;
 }
