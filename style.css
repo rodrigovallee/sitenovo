@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: ;
+    padding: 0;
 }
 
 .cabeçalho{
@@ -13,4 +13,7 @@ padding: 24px 0;
 }
 .foto {
     width: 15%;
+}
+.braços{background-color: aquamarine;
+color: black;
 }
